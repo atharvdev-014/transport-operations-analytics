@@ -1,0 +1,51 @@
+customer_id,customer_name,city,customer_type,payment_terms_days,trip_count,total_revenue,total_paid,total_outstanding,total_overdue
+CUS001,Malabar Retail Chain,Bengaluru,Textile,30,12,352928.0,216157.0,136771.0,93489.0
+CUS002,Sai Exports,Hyderabad,Pharma,30,8,319623.0,244370.0,75253.0,0.0
+CUS003,Vishal Retail Chain,Jaipur,Textile,60,8,293227.0,196493.0,96734.0,0.0
+CUS004,Om Enterprises,Nashik,Automotive,45,7,191987.0,114643.0,77344.0,29653.0
+CUS005,Om Industries,Hyderabad,E-commerce,30,9,296591.0,255746.0,40845.0,25172.0
+CUS006,Vishal Traders,Pune,Agro,30,14,577859.0,226198.0,351661.0,285997.0
+CUS007,Sunrise Retail Chain,Ahmedabad,FMCG,15,9,351078.0,160932.0,190146.0,109499.0
+CUS008,Sahyadri Merchandise,Bengaluru,Manufacturing,45,13,362869.0,270267.0,92602.0,69949.0
+CUS009,Western Retail Chain,Bengaluru,Automotive,15,15,404942.0,322678.0,82264.0,37595.0
+CUS010,Metro Agro Foods,Surat,Manufacturing,45,9,341694.0,228310.0,113384.0,29671.0
+CUS011,Sai Manufacturing Co,Chennai,FMCG,30,15,484518.0,302258.0,182260.0,103292.0
+CUS012,Deccan Merchandise,Indore,E-commerce,60,7,229625.0,106711.0,122914.0,122914.0
+CUS013,Krishna Corporation,Bengaluru,E-commerce,45,7,261386.0,124598.0,136788.0,87680.0
+CUS014,Shree Traders,Pune,Retail,45,6,146709.0,76041.0,70668.0,52744.0
+CUS015,Sunrise Impex,Nashik,Pharma,30,8,278347.0,56535.0,221812.0,108054.0
+CUS016,Sahyadri Enterprises,Indore,Manufacturing,45,14,464835.0,150611.0,314224.0,203267.0
+CUS017,Krishna Logistics Pvt Ltd,Jaipur,Retail,30,8,314605.0,84937.0,229668.0,106872.0
+CUS018,Shree Manufacturing Co,Chennai,Automotive,30,8,343715.0,172712.0,171003.0,125225.0
+CUS019,Jai Impex,Delhi,Retail,30,9,251278.0,175078.0,76200.0,20468.0
+CUS020,Golden Manufacturing Co,Mumbai,Retail,60,3,49148.0,31811.0,17337.0,17337.0
+CUS021,National Merchandise,Delhi,E-commerce,30,5,135634.0,129096.0,6538.0,6538.0
+CUS022,Vishal Industries,Aurangabad,Automotive,30,7,188097.0,72586.0,115511.0,79636.0
+CUS023,Prime Pharma Ltd,Nagpur,FMCG,30,7,207702.0,158418.0,49284.0,33445.0
+CUS024,Western Logistics Pvt Ltd,Delhi,Manufacturing,45,11,369003.0,155695.0,213308.0,125830.0
+CUS025,Shree Retail Chain,Surat,Pharma,30,10,302684.0,97837.0,204847.0,179132.0
+CUS026,Jai Manufacturing Co,Hyderabad,Retail,30,7,163299.0,53845.0,109454.0,13235.0
+CUS027,National Exports,Delhi,Textile,30,9,297383.0,82592.0,214791.0,131429.0
+CUS028,Sahyadri Textiles,Mumbai,E-commerce,15,6,190906.0,144266.0,46640.0,30965.0
+CUS029,Vindhya Pharma Ltd,Nashik,E-commerce,30,10,281558.0,156719.0,124839.0,119068.0
+CUS030,Metro Pharma Ltd,Mumbai,Manufacturing,30,15,388625.0,211550.0,177075.0,52861.0
+CUS031,Sai Pharma Ltd,Surat,Retail,30,7,159496.0,117466.0,42030.0,19321.0
+CUS032,Royal Manufacturing Co,Chennai,Agro,45,7,363199.0,78580.0,284619.0,88606.0
+CUS033,Malabar Traders,Nashik,FMCG,30,12,405552.0,211682.0,193870.0,178305.0
+CUS034,Vindhya Manufacturing Co,Nagpur,Retail,15,15,432970.0,310699.0,122271.0,89511.0
+CUS035,Krishna Manufacturing Co,Delhi,Pharma,45,6,117243.0,69269.0,47974.0,38520.0
+CUS036,United Industries,Ahmedabad,Pharma,60,10,316784.0,198455.0,118329.0,79329.0
+CUS037,Konkan Corporation,Surat,FMCG,30,10,309825.0,133400.0,176425.0,131686.0
+CUS038,Ganges Distributors,Chennai,Automotive,30,9,265352.0,120862.0,144490.0,53152.0
+CUS039,Krishna Traders,Nashik,Manufacturing,45,8,322223.0,101429.0,220794.0,62558.0
+CUS040,National Impex,Indore,Pharma,15,10,271725.0,157086.0,114639.0,71068.0
+CUS041,Sahyadri Retail Chain,Jaipur,Manufacturing,30,9,226418.0,131245.0,95173.0,53610.0
+CUS042,National Motors,Bengaluru,Agro,30,13,476608.0,190044.0,286564.0,224169.0
+CUS043,Deccan Distributors,Hyderabad,Agro,30,4,92931.0,33543.0,59388.0,59388.0
+CUS044,Malabar Merchandise,Mumbai,Automotive,45,12,453312.0,106642.0,346670.0,268456.0
+CUS045,Deccan Motors,Bengaluru,Agro,30,10,359365.0,200064.0,159301.0,123436.0
+CUS046,Ganges Textiles,Surat,Agro,30,7,262112.0,262112.0,0.0,0.0
+CUS047,Vishal Motors,Aurangabad,Textile,15,8,350475.0,179270.0,171205.0,0.0
+CUS048,Prime Agro Foods,Mumbai,FMCG,15,6,163770.0,51211.0,112559.0,112559.0
+CUS049,Krishna Pharma Ltd,Pune,E-commerce,45,10,264465.0,74961.0,189504.0,105209.0
+CUS050,Jai Pharma Ltd,Indore,Retail,30,10,475029.0,426136.0,48893.0,30790.0
